@@ -1,0 +1,9 @@
+good day 
+
+
+The first day after a while, we created a competency tree for a whole year, each competency has 3 levels.
+The first level is imitation, the second level is adaptation and the third level is trans dispose.
+we worked first brief online game store template and this period we did almost 6 or 7 veilles, we have seen 
+the difference between html and css, DOM HTML & CSSOM, XHTML vs HTML, STRUCTURAL ELEMENTS, HTML / CSS VALIDATION...
+and then we create  second brief to Video store home page. we finished first two step, and now we work 
+We are now working on the next two steps
